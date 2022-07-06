@@ -4,12 +4,11 @@
     overflow-x: hidden;
     height: 550px;
     width: 50%;
-
     display: block;
     margin: 0 auto;
     margin-top: 1%;
+    border-radius: 10px;
 
-    
 }
 
 .signIn-Content::-webkit-scrollbar{
@@ -35,4 +34,3 @@
 .signIn-Content div input{
     width: 45%;
 }
-
